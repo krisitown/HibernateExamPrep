@@ -1,0 +1,14 @@
+[
+  { "account_name" : "Bankovata Smetka na Bankouu",
+    "owner" : "Banko",
+    "bank" : "CGP GREY vs Brady",
+    "balance" : 100.2
+  },
+
+  {
+    "account_name" : "The Fuckin Queen, bitch!",
+    "owner" : "Her Majesty Queen Elizabeth the 3rd of Great Britain",
+    "bank" : "The bank of London",
+    "balance" : 9001
+  }
+]

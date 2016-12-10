@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<accounts>
+    <account account-name="xmlAcc1" balance="10.5">
+        <owner name="Dinko" town="Qmbol"></owner>
+        <bank name="Raifaizen"></bank>
+    </account>
+</accounts>
